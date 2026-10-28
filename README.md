@@ -48,13 +48,7 @@ This repository is the central navigation page for my personal R&D projects. Eac
 | Personal Project Record Templates | [personal-project-record-templates](https://github.com/Crazypsy92/personal-project-record-templates) | Markdown templates for project overviews, development logs, testing reports, and delivery documentation | Registered |
 | Personal R&D Project Index | [Project-Index](https://github.com/Crazypsy92/Project-Index) | Central navigation and status index for personal projects | Current repository |
 
-## 3. Repository History
-
-| Project | Former repository | Record |
-| --- | --- | --- |
-| MuJoCo Robot Arm Simulation | `mujoco_project_arm` | GitHub repository deleted by the owner. It is no longer listed as an active repository; this row is retained only as a historical record. |
-
-## 4. Project Status Definitions
+## 3. Project Status Definitions
 
 | Status | Description |
 | --- | --- |
@@ -69,7 +63,7 @@ This repository is the central navigation page for my personal R&D projects. Eac
 
 Project status should be based on actual evidence. Completing implementation does not necessarily mean that all tests have passed or that the entire project has been accepted.
 
-## 5. Project Documentation Standards
+## 4. Project Documentation Standards
 
 Each project may maintain documentation according to its needs. The following information is recommended:
 
@@ -83,7 +77,7 @@ Each project may maintain documentation according to its needs. The following in
 
 For reusable documentation templates, see the [Personal Project Record Templates](https://github.com/Crazypsy92/personal-project-record-templates) repository.
 
-## 6. New Project Registration Workflow
+## 5. New Project Registration Workflow
 
 When registering a new project:
 
@@ -96,7 +90,7 @@ When registering a new project:
 
 Only the relevant section of this document needs to be updated when a project's repository or status changes.
 
-## 7. Repository Management Guidelines
+## 6. Repository Management Guidelines
 
 - Use concise, descriptive repository names.
 - Keep each independent project's source code, dependencies, tests, and documentation in its own repository.
@@ -106,11 +100,10 @@ Only the relevant section of this document needs to be updated when a project's 
 - Before deleting a repository, ensure any source code and records that need to be retained have been backed up locally.
 - Never commit unauthorized company source code, confidential data, passwords, API keys, access tokens, or other sensitive information to public repositories.
 
-## 8. Maintenance Checklist
+## 7. Maintenance Checklist
 
 - [x] Register the two remaining project repositories in this index.
 - [x] Mark the STM32 LL Delay project as paused.
-- [x] Remove the deleted MuJoCo repository from the active project directory and preserve its history below.
 - [ ] Register other projects if and when GitHub repositories are created.
 - [ ] Review repository links and project statuses periodically.
 
