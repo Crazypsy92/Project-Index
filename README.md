@@ -4,7 +4,9 @@ A centralized index for my personal development projects, covering source reposi
 
 ## 1. Overview
 
-This repository is the central navigation page for my personal R&D projects. Each independent project can have its own repository, while this index records which projects are currently registered on GitHub.
+This repository is the public navigation page for my personal R&D projects. It lists only projects and information intended for public disclosure. Each independent project can have its own repository, while this index records which public projects are currently registered on GitHub.
+
+Private projects, confidential work, and internal project details should be tracked in a separate private index if needed. Do not list private repository links or sensitive project metadata in this public index.
 
 - **Independent repositories:** Keep each project's source code, dependencies, tests, and documentation organized separately.
 - **Centralized navigation:** Find registered projects by category and open their repositories quickly.
@@ -98,6 +100,8 @@ Only the relevant section of this document needs to be updated when a project's 
 - Use clear Git commit messages and preserve important verification evidence.
 - Pause or archive inactive projects when appropriate instead of deleting valuable development history.
 - Before deleting a repository, ensure any source code and records that need to be retained have been backed up locally.
+- Keep this public index limited to projects and information intended for public disclosure.
+- If private projects need an index later, create a separate private index; do not include private repository links or sensitive project metadata here.
 - Never commit unauthorized company source code, confidential data, passwords, API keys, access tokens, or other sensitive information to public repositories.
 
 ## 7. Maintenance Checklist
