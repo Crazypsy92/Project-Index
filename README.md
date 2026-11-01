@@ -42,6 +42,7 @@ Private projects, confidential work, and internal project details should be trac
 | --- | --- | --- | --- |
 | Research Data Analysis Tool | Not registered | Data processing, statistical analysis, visualization, and export | Not registered on GitHub |
 | Personal Study System | Not registered | Question bank management, practice sessions, error tracking, and learning statistics | Not registered on GitHub |
+| Unified Content Notes | [unified-content-notes](https://github.com/Crazypsy92/unified-content-notes) | A structure-aware Markdown skill for summarizing, explaining, and formatting videos, articles, films, novels, documentaries, stories, and other source material | Registered |
 
 ### 2.5 Project Management and Documentation
 
@@ -108,6 +109,7 @@ Only the relevant section of this document needs to be updated when a project's 
 
 - [x] Register the two remaining project repositories in this index.
 - [x] Mark the STM32 LL Delay project as paused.
+- [x] Register Unified Content Notes.
 - [ ] Register other projects if and when GitHub repositories are created.
 - [ ] Review repository links and project statuses periodically.
 
