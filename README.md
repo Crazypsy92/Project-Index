@@ -33,6 +33,7 @@ Private projects, confidential work, and internal project details should be trac
 
 | Project | Repository | Description | Status |
 | --- | --- | --- | --- |
+| STM32F103 FreeRTOS MultiButton | [STM32F103-FreeRTOS-MultiButton](https://github.com/Crazypsy92/STM32F103-FreeRTOS-MultiButton) | FreeRTOS button input demo on STM32F103C8T6 using the MultiButton state machine; KEY1 turns LED on, KEY2 turns LED off | Under Verification |
 | STM32 LL Delay | [STM32_LL_Delay](https://github.com/Crazypsy92/STM32_LL_Delay) | STM32 low-level development and delay-related functionality | Paused; repository retained, no active updates planned |
 | Embedded Black Box Recorder | Not registered | Fault logging, data storage, recovery, and reliability testing | Not registered on GitHub |
 
