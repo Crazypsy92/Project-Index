@@ -51,7 +51,7 @@ Private projects, confidential work, and internal project details should be trac
 | Project | Repository | Description | Status |
 | --- | --- | --- | --- |
 | Personal Project Record Templates | [personal-project-record-templates](https://github.com/Crazypsy92/personal-project-record-templates) | Markdown templates for project overviews, development logs, testing reports, and delivery documentation | Registered |
-| Engineering Worklog Skill | [ngineering-worklog-skill](https://github.com/Crazypsy92/ngineering-worklog-skill) | Reusable AI skill for structured daily engineering work reports, including morning plans, quantitative targets, working hours, completion results, and deliverables | Registered |
+| Engineering Worklog Skill | [engineering-worklog-skill](https://github.com/Crazypsy92/engineering-worklog-skill) | Reusable AI skill for structured daily engineering work reports, including morning plans, quantitative targets, working hours, completion results, and deliverables | Registered |
 | Personal R&D Project Index | [Project-Index](https://github.com/Crazypsy92/Project-Index) | Central navigation and status index for personal projects | Current repository |
 
 ## 3. Project Status Definitions
