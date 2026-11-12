@@ -50,7 +50,7 @@ Private projects, confidential work, and internal project details should be trac
 
 | Project | Repository | Description | Status |
 | --- | --- | --- | --- |
-| Personal Project Record Templates | [personal-project-record-templates](https://github.com/Crazypsy92/personal-project-record-templates) | Markdown templates for project overviews, development logs, testing reports, and delivery documentation | Registered |
+| Personal Record Templates | [personal-project-record-templates](https://github.com/Crazypsy92/personal-project-record-templates) | Four lightweight Obsidian Markdown templates: daily logs, weekly reports, calendar-style monthly reviews, and a consolidated single-file R&D project record | Registered |
 | Engineering Worklog & Daily Review Skills | [engineering-worklog-skill](https://github.com/Crazypsy92/engineering-worklog-skill) | Two AI skills: quantitative engineering work reporting, plus daily work, study, personal-life and problem-solving reviews | Registered |
 | Personal R&D Project Index | [Project-Index](https://github.com/Crazypsy92/Project-Index) | Central navigation and status index for personal projects | Current repository |
 
@@ -81,7 +81,7 @@ Each project may maintain documentation according to its needs. The following in
 6. **Delivery Records:** Versions, important commits, usage instructions, and deliverables.
 7. **Next Steps:** Priorities, prerequisites, and acceptance criteria for upcoming work.
 
-For reusable documentation templates, see the [Personal Project Record Templates](https://github.com/Crazypsy92/personal-project-record-templates) repository.
+For ready-to-use Obsidian Markdown templates, see [Personal Record Templates](https://github.com/Crazypsy92/personal-project-record-templates): daily logs, weekly reports, calendar-style monthly summaries, and a single-file project record. Templates are organized under [`templates/`](https://github.com/Crazypsy92/personal-project-record-templates/tree/main/templates).
 
 ## 5. New Project Registration Workflow
 
