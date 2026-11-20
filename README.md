@@ -35,6 +35,9 @@ Private projects, confidential work, and internal project details should be trac
 | --- | --- | --- | --- |
 | STM32F103 FreeRTOS MultiButton | [STM32F103-FreeRTOS-MultiButton](https://github.com/Crazypsy92/STM32F103-FreeRTOS-MultiButton) | FreeRTOS button input demo on STM32F103C8T6 using the MultiButton state machine; KEY1 turns LED on, KEY2 turns LED off | Completed |
 | STM32 LL Delay | [STM32_LL_Delay](https://github.com/Crazypsy92/STM32_LL_Delay) | STM32 low-level development and delay-related functionality | Paused; repository retained, no active updates planned |
+| STM32F103 GC9A01 + W25QXX SPI Bus | [stm32f103-gc9a01-w25qxx-spi-bus](https://github.com/Crazypsy92/stm32f103-gc9a01-w25qxx-spi-bus) | Bare-metal dual-SPI (SPI1 + SPI2) driver with DMA driving a GC9A01 240×240 TFT and a W25Q128 16 MB NOR flash on STM32F103C8T6; layered bus abstraction with ISR-safe arbitration, per-device clock switching, single-key interactive demo, and host-side CI tests | Maintenance |
+| STM32F103 AT24xx I2C Bus | [stm32f103-at24xx-i2c-bus](https://github.com/Crazypsy92/stm32f103-at24xx-i2c-bus) | Bare-metal AT24Cxx I2C EEPROM driver sharing one I2C bus with an SSD1306 OLED on STM32F103C8T6; five-layer architecture (bus arbitration, software/hardware backends, port layer, protocol layer) with ACK-polling write cycles, page-split writes, async transfer interface, and key-driven demo | Under Verification |
+| InsightRTOS on STM32F103ZE | [InsightRTOS-STM32F103ZE-ST7789](https://github.com/Crazypsy92/InsightRTOS-STM32F103ZE-ST7789) | Self-developed Cortex-M3 RTOS on STM32F103ZET6 featuring preemptive scheduling, static IPC, SPI/DMA integration, and an ST7789 display demo | Planned; repository created, initial source not yet pushed |
 | Embedded Black Box Recorder | Not registered | Fault logging, data storage, recovery, and reliability testing | Not registered on GitHub |
 
 ### 2.4 Personal Development Tools
@@ -44,7 +47,6 @@ Private projects, confidential work, and internal project details should be trac
 | Research Data Analysis Tool | Not registered | Data processing, statistical analysis, visualization, and export | Not registered on GitHub |
 | Personal Study System | Not registered | Question bank management, practice sessions, error tracking, and learning statistics | Not registered on GitHub |
 | Unified Content Notes | [unified-content-notes](https://github.com/Crazypsy92/unified-content-notes) | A structure-aware Markdown skill for summarizing, explaining, and formatting videos, articles, films, novels, documentaries, stories, and other source material | Registered |
-| Manipulator Master's Thesis Scope | [manipulator-masters-thesis-scope](https://github.com/Crazypsy92/manipulator-masters-thesis-scope) | A research-planning skill and documentation workspace for robotic manipulation literature reviews, figure and software surveys, thesis framework design, workload assessment, and experiment planning | Registered |
 
 ### 2.5 Project Management and Documentation
 
@@ -113,8 +115,8 @@ Only the relevant section of this document needs to be updated when a project's 
 - [x] Register the two remaining project repositories in this index.
 - [x] Mark the STM32 LL Delay project as paused.
 - [x] Register Unified Content Notes.
-- [x] Register Manipulator Master's Thesis Scope.
 - [x] Register Engineering Worklog Skill.
+- [x] Register the STM32F103 SPI bus, I2C bus, and RTOS repositories.
 - [ ] Register other projects if and when GitHub repositories are created.
 - [ ] Review repository links and project statuses periodically.
 
